@@ -1,4 +1,4 @@
-# Visual-Banking-Analytics
+# Visual Banking Analytics
 Visual Data Analysis in Banking Using Kaggle Banking Dataset - Marketing Targets
 
 ## The purpose of this kernel is to do visual data analysis in banking:
